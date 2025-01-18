@@ -1,6 +1,7 @@
 ﻿namespace UserManagementService.ServiceLayer
 {
-    public class ClassTest
+    public interface InterfaceUserManagementService
     {
+
     }
 }
